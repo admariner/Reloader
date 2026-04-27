@@ -15,6 +15,8 @@ bottom of this page.
 
 ## Organizations Using Reloader
 
+![Stakater Cloud](logos/stakater-cloud.svg) 
+
 <!-- LOGO GRID START -->
 | | | | | |
 |:---:|:---:|:---:|:---:|:---:|
