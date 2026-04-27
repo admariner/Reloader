@@ -20,7 +20,7 @@ bottom of this page.
   <tr>
     <td align="center"><img src="logos/stakater-cloud.svg" width="100" alt="Stakater Cloud"></td>
     <td align="center"><img src="logos/exelient-ab.svg" width="100" alt="Exelient AB"></td>
-    <td></td><td></td><td></td>
+    <td width="100"></td><td width="100"></td><td width="100"></td>
   </tr>
 </table>
 <!-- LOGO GRID END -->
