@@ -16,11 +16,14 @@ bottom of this page.
 ## Organizations Using Reloader
 
 <!-- LOGO GRID START -->
-| | | | | |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="logos/stakater-cloud.svg" width="80" alt="Stakater Cloud"> | <img src="logos/exelient-ab.svg" width="80" alt="Exelient AB"> | | | |
+<table>
+  <tr>
+    <td align="center"><img src="logos/stakater-cloud.svg" width="100" alt="Stakater Cloud"></td>
+    <td align="center"><img src="logos/exelient-ab.svg" width="100" alt="Exelient AB"></td>
+    <td></td><td></td><td></td>
+  </tr>
+</table>
 <!-- LOGO GRID END -->
-
 ---
 
 ## Adopter Details
