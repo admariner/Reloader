@@ -8,7 +8,7 @@
 [![Release](https://img.shields.io/github/release/stakater/reloader.svg?style=flat-square)](https://github.com/stakater/reloader/releases/latest)
 [![GitHub tag](https://img.shields.io/github/tag/stakater/reloader.svg?style=flat-square)](https://github.com/stakater/reloader/releases/latest)
 [![Docker Pulls](https://img.shields.io/docker/pulls/stakater/reloader.svg?style=flat-square)](https://hub.docker.com/r/stakater/reloader/)
-[![Docker Stars](https://img.shields.io/docker/stars/stakater/reloader.svg?style=flat-square)](https://hub.docker.com/r/stakater/reloader/)
+[![GitHub Stars](https://img.shields.io/github/stars/stakater/Reloader.svg?style=flat-square)](https://github.com/stakater/Reloader)
 [![license](https://img.shields.io/github/license/stakater/reloader.svg?style=flat-square)](LICENSE)
 
 ## 🔁 What is Reloader?
@@ -50,6 +50,21 @@ flowchart LR
 - `Secrets` and `ConfigMaps` are watched by Reloader.
 - When changes are detected, Reloader automatically triggers a rollout of the associated workloads, ensuring your app always runs with the latest configuration.
 
+## 🏢 Reloader Enterprise
+
+Reloader OSS is free and production-proven with 24B+ downloads.
+
+For teams with stricter requirements:
+
+| Need | Enterprise |
+|------|-----------|
+| CVE-free, signed images with SBOM | ✅ |
+| SLA-backed support from Kubernetes experts | ✅ |
+| Artifact provenance for compliance audits | ✅ |
+| Dedicated escalation path | ✅ |
+
+→ [Contact Sales](mailto:sales@stakater.com) for info about Reloader Enterprise.
+
 ## ⚡ Quick Start
 
 ### 1. Install Reloader
@@ -84,16 +99,6 @@ spec:
 ```
 
 This tells Reloader to watch the `ConfigMap` and `Secret` referenced in this deployment. When either is updated, it will trigger a rollout.
-
-## 🏢 Enterprise Version
-
-Stakater offers an enterprise-grade version of Reloader with:
-
-1. SLA-backed support
-1. Certified images
-1. Private Slack support
-
-Contact [`sales@stakater.com`](mailto:sales@stakater.com) for info about Reloader Enterprise.
 
 ## 🧩 Usage
 
@@ -446,6 +451,17 @@ These flags allow you to redefine annotation keys used in your workloads or reso
 ## Compatibility
 
 Reloader is compatible with Kubernetes >= 1.19
+
+## 🏢 Adopters
+
+Reloader has **24B+ Docker pulls** across thousands of Kubernetes clusters worldwide.
+
+If you're running Reloader in production, we'd love to hear from you:
+
+- 💬 **Share your story** → [Show & Tell Discussion](https://github.com/stakater/Reloader/discussions/1137)
+- 🏷️ **Add your logo** → [ADOPTERS.md](./adopters/ADOPTERS.md)
+
+[See who's using Reloader →](./adopters/ADOPTERS.md)
 
 ## Help
 
