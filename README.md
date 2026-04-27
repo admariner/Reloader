@@ -452,6 +452,17 @@ These flags allow you to redefine annotation keys used in your workloads or reso
 
 Reloader is compatible with Kubernetes >= 1.19
 
+## 🏢 Adopters
+
+Reloader has **24B+ Docker pulls** across thousands of Kubernetes clusters worldwide.
+
+If you're running Reloader in production, we'd love to hear from you:
+
+- 💬 **Share your story** → [Show & Tell Discussion](https://github.com/stakater/Reloader/discussions/1137)
+- 🏷️ **Add your logo** → [ADOPTERS.md](./adopters/ADOPTERS.md)
+
+[See who's using Reloader →](./adopters/ADOPTERS.md)
+
 ## Help
 
 ### Documentation
