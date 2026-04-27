@@ -49,7 +49,7 @@ Adding your organization takes about 5 minutes and means a lot to the project.
 ### Option B — GitHub Discussion (quickest, no git required)
 
 Drop a comment in the
-[👋 Show & Tell: Who's using Reloader?](https://github.com/stakater/Reloader/discussions)
+[👋 Show & Tell: Who's using Reloader?](https://github.com/stakater/Reloader/discussions/1137)
 discussion using this template:
 
 ```
