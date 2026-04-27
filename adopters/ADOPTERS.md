@@ -31,8 +31,8 @@ bottom of this page.
 
 | Organization | Quote | Use Case | Scale | Since |
 |---|---|---|---|---|
-| **Stakater Cloud** | "Reloader is foundational to Stakater Cloud — every secret rotation, config change, and cert renewal, handled automatically." | Secret rotation, Cert Renewal, Config Propagation | 4 regions, 800+ namespaces | 2024 |
-| **Exelient AB** | "The cert-manager + Reloader combo is gold. Renewed certs, live and hassle-free." | Secret rotation, Cert Renewal, Config Propagation | 1 cluster, 3 namespaces | 2026 |
+| [Stakater Cloud](www.stakater.cloud) | "Reloader is foundational to Stakater Cloud — every secret rotation, config change, and cert renewal, handled automatically." | Secret rotation, Cert Renewal, Config Propagation | 4 regions, 800+ namespaces | 2024 |
+| [Exelient AB](www.exelient.se) | "The cert-manager + Reloader combo is gold. Renewed certs, live and hassle-free." | Secret rotation, Cert Renewal, Config Propagation | 1 cluster, 3 namespaces | 2026 |
 
 ---
 
