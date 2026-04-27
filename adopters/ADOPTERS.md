@@ -15,12 +15,10 @@ bottom of this page.
 
 ## Organizations Using Reloader
 
-![Stakater Cloud](logos/stakater-cloud.svg) 
-
 <!-- LOGO GRID START -->
 | | | | | |
 |:---:|:---:|:---:|:---:|:---:|
-| ![Stakater Cloud](logos/stakater-cloud.svg) | ![Exelient AB](logos/exelient-ab.svg) | | | |
+| <img src="logos/stakater-cloud.svg" width="120" alt="Stakater Cloud"> | <img src="logos/exelient-ab.svg" width="120" alt="Exelient AB"> | | | |
 <!-- LOGO GRID END -->
 
 ---
