@@ -18,7 +18,7 @@ bottom of this page.
 <!-- LOGO GRID START -->
 | | | | | |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="logos/stakater-cloud.svg" height="40" alt="Stakater Cloud"> | <img src="logos/exelient.svg" height="40" alt="Exelient AB"> | | | |
+| <img src="logos/stakater-cloud.svg" height="40" alt="Stakater Cloud"> | <img src="logos/exelient-ab.svg" height="40" alt="Exelient AB"> | | | |
 <!-- LOGO GRID END -->
 
 ---
