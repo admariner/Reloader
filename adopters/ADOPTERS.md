@@ -19,7 +19,7 @@ bottom of this page.
 <table>
   <tr>
     <td align="center"><img src="logos/stakater-cloud.svg" width="100" alt="Stakater Cloud"></td>
-    <td align="center"><img src="logos/exelient-ab.svg" width="120" alt="Exelient AB"></td>
+    <td align="center"><img src="logos/exelient-ab.svg" width="100" alt="Exelient AB"></td>
     <td></td><td></td><td></td>
   </tr>
 </table>
